@@ -1,73 +1,18 @@
 {
-  "sections": {
-    "websites": {
-      "title": "Websites",
-      "intro": "I craft ultra-focused micro websites that load fast, look sharp, and clearly communicate your message. Whether you’re launching a product, promoting a service, or building a personal brand — I’ll build you a site that works like a digital handshake: professional, memorable, and uniquely yours.",
-      "projects": [
-        {
-          "title": "ture Retreat Landing Page",
-          "description": "A calm, earthy one-pager promoting a wellness retreat in Sweden. Responsive, minimal, and immersive.",
-          "image": "placeholder.png",
-          "link": "#"
-        },
-        {
-          "title": "Local Coffee Shop Site",
-          "description": "Micro site with menu, location, and a warm, welcoming vibe. Built for mobile-first.",
-          "image": "placeholder.png",
-          "link": "#"
-        },
-        {
-          "title": "Artist Portfolio",
-          "description": "Dark-mode gallery site for a freelance illustrator. Lightweight, scroll-free with image modals.",
-          "image": "placeholder.png",
-          "link": "#"
-        },
-        {
-          "title": "Freelancer Promo Page",
-          "description": "Single screen with a strong pitch and booking CTA for a freelance consultant.",
-          "image": "placeholder.png",
-          "link": "#"
-        }
-      ]
-    },
-    "design": {
-      "title": "Design",
-      "intro": "Simplicity meets character. I design with clarity and intent — no clutter, no fluff. Whether it’s a brand identity or a layout, I combine clean structure with playful energy to create designs that feel human and alive. Each piece is custom-built, not templated.",
-      "projects": [
-        {
-          "title": "Brand Identity for Wander Studio",
-          "description": "A clean, earthy logo and design system for a nature-focused creative agency. Included icon set, typography pairing, and brand guidelines.",
-          "image": "placeholder.png",
-          "type": "branding"
-        },
-        {
-          "title": "App UI for Habit Tracker",
-          "description": "Minimal and calm UI for a mobile habit tracker app. Focused on positive feedback loops and dopamine-safe UX.",
-          "image": "placeholder.png",
-          "type": "app-design"
-        },
-        {
-          "title": "Poster Series for Music Festival",
-          "description": "A loud, glitchy poster and social media set for an indie electronic music event. Printed and digital assets delivered.",
-          "image": "placeholder.png",
-          "type": "print"
-        },
-        {
-          "title": "Portfolio Redesign for Photographer",
-          "description": "Laid-back, gallery-style website mockups with focus on negative space and framing. Delivered responsive design system + design-to-dev handoff.",
-          "image": "placeholder.png",
-          "type": "web-design"
-        }
-      ]
-    },
-    "contact": {
-      "title": "Contact Me",
-      "intro": "Let’s build something together. Whether you need a website, a brand refresh, or a design sparring partner — I’d love to hear your story.",
-      "email": "luukbarink@gmail.com",
-      "social": {
-        "linkedin": "https://linkedin.com/in/yourprofile",
-        "instagram": "https://instagram.com/yourhandle"
-      }
-    }
+  "name": "content.json",
+  "path": "content/content.json",
+  "sha": "131ef7acb73e669be214d13de32916a29254e9fa",
+  "size": 3333,
+  "url": "https://api.github.com/repos/Luuno/portfolio/contents/content/content.json?ref=main",
+  "html_url": "https://github.com/Luuno/portfolio/blob/main/content/content.json",
+  "git_url": "https://api.github.com/repos/Luuno/portfolio/git/blobs/131ef7acb73e669be214d13de32916a29254e9fa",
+  "download_url": "https://raw.githubusercontent.com/Luuno/portfolio/main/content/content.json",
+  "type": "file",
+  "content": "ewogICJzZWN0aW9ucyI6IHsKICAgICJ3ZWJzaXRlcyI6IHsKICAgICAgInRp\ndGxlIjogIldlYnNpdGVzIiwKICAgICAgImludHJvIjogIkkgY3JhZnQgdWx0\ncmEtZm9jdXNlZCBtaWNybyB3ZWJzaXRlcyB0aGF0IGxvYWQgZmFzdCwgbG9v\nayBzaGFycCwgYW5kIGNsZWFybHkgY29tbXVuaWNhdGUgeW91ciBtZXNzYWdl\nLiBXaGV0aGVyIHlvdeKAmXJlIGxhdW5jaGluZyBhIHByb2R1Y3QsIHByb21v\ndGluZyBhIHNlcnZpY2UsIG9yIGJ1aWxkaW5nIGEgcGVyc29uYWwgYnJhbmQg\n4oCUIEnigJlsbCBidWlsZCB5b3UgYSBzaXRlIHRoYXQgd29ya3MgbGlrZSBh\nIGRpZ2l0YWwgaGFuZHNoYWtlOiBwcm9mZXNzaW9uYWwsIG1lbW9yYWJsZSwg\nYW5kIHVuaXF1ZWx5IHlvdXJzLiIsCiAgICAgICJwcm9qZWN0cyI6IFsKICAg\nICAgICB7CiAgICAgICAgICAidGl0bGUiOiAidHVyZSBSZXRyZWF0IExhbmRp\nbmcgUGFnZSIsCiAgICAgICAgICAiZGVzY3JpcHRpb24iOiAiQSBjYWxtLCBl\nYXJ0aHkgb25lLXBhZ2VyIHByb21vdGluZyBhIHdlbGxuZXNzIHJldHJlYXQg\naW4gU3dlZGVuLiBSZXNwb25zaXZlLCBtaW5pbWFsLCBhbmQgaW1tZXJzaXZl\nLiIsCiAgICAgICAgICAiaW1hZ2UiOiAicGxhY2Vob2xkZXIucG5nIiwKICAg\nICAgICAgICJsaW5rIjogIiMiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAg\nICAgICAidGl0bGUiOiAiTG9jYWwgQ29mZmVlIFNob3AgU2l0ZSIsCiAgICAg\nICAgICAiZGVzY3JpcHRpb24iOiAiTWljcm8gc2l0ZSB3aXRoIG1lbnUsIGxv\nY2F0aW9uLCBhbmQgYSB3YXJtLCB3ZWxjb21pbmcgdmliZS4gQnVpbHQgZm9y\nIG1vYmlsZS1maXJzdC4iLAogICAgICAgICAgImltYWdlIjogInBsYWNlaG9s\nZGVyLnBuZyIsCiAgICAgICAgICAibGluayI6ICIjIgogICAgICAgIH0sCiAg\nICAgICAgewogICAgICAgICAgInRpdGxlIjogIkFydGlzdCBQb3J0Zm9saW8i\nLAogICAgICAgICAgImRlc2NyaXB0aW9uIjogIkRhcmstbW9kZSBnYWxsZXJ5\nIHNpdGUgZm9yIGEgZnJlZWxhbmNlIGlsbHVzdHJhdG9yLiBMaWdodHdlaWdo\ndCwgc2Nyb2xsLWZyZWUgd2l0aCBpbWFnZSBtb2RhbHMuIiwKICAgICAgICAg\nICJpbWFnZSI6ICJwbGFjZWhvbGRlci5wbmciLAogICAgICAgICAgImxpbmsi\nOiAiIyIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJ0aXRsZSI6\nICJGcmVlbGFuY2VyIFByb21vIFBhZ2UiLAogICAgICAgICAgImRlc2NyaXB0\naW9uIjogIlNpbmdsZSBzY3JlZW4gd2l0aCBhIHN0cm9uZyBwaXRjaCBhbmQg\nYm9va2luZyBDVEEgZm9yIGEgZnJlZWxhbmNlIGNvbnN1bHRhbnQuIiwKICAg\nICAgICAgICJpbWFnZSI6ICJwbGFjZWhvbGRlci5wbmciLAogICAgICAgICAg\nImxpbmsiOiAiIyIKICAgICAgICB9CiAgICAgIF0KICAgIH0sCiAgICAiZGVz\naWduIjogewogICAgICAidGl0bGUiOiAiRGVzaWduIiwKICAgICAgImludHJv\nIjogIlNpbXBsaWNpdHkgbWVldHMgY2hhcmFjdGVyLiBJIGRlc2lnbiB3aXRo\nIGNsYXJpdHkgYW5kIGludGVudCDigJQgbm8gY2x1dHRlciwgbm8gZmx1ZmYu\nIFdoZXRoZXIgaXTigJlzIGEgYnJhbmQgaWRlbnRpdHkgb3IgYSBsYXlvdXQs\nIEkgY29tYmluZSBjbGVhbiBzdHJ1Y3R1cmUgd2l0aCBwbGF5ZnVsIGVuZXJn\neSB0byBjcmVhdGUgZGVzaWducyB0aGF0IGZlZWwgaHVtYW4gYW5kIGFsaXZl\nLiBFYWNoIHBpZWNlIGlzIGN1c3RvbS1idWlsdCwgbm90IHRlbXBsYXRlZC4i\nLAogICAgICAicHJvamVjdHMiOiBbCiAgICAgICAgewogICAgICAgICAgInRp\ndGxlIjogIkJyYW5kIElkZW50aXR5IGZvciBXYW5kZXIgU3R1ZGlvIiwKICAg\nICAgICAgICJkZXNjcmlwdGlvbiI6ICJBIGNsZWFuLCBlYXJ0aHkgbG9nbyBh\nbmQgZGVzaWduIHN5c3RlbSBmb3IgYSBuYXR1cmUtZm9jdXNlZCBjcmVhdGl2\nZSBhZ2VuY3kuIEluY2x1ZGVkIGljb24gc2V0LCB0eXBvZ3JhcGh5IHBhaXJp\nbmcsIGFuZCBicmFuZCBndWlkZWxpbmVzLiIsCiAgICAgICAgICAiaW1hZ2Ui\nOiAicGxhY2Vob2xkZXIucG5nIiwKICAgICAgICAgICJ0eXBlIjogImJyYW5k\naW5nIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInRpdGxlIjog\nIkFwcCBVSSBmb3IgSGFiaXQgVHJhY2tlciIsCiAgICAgICAgICAiZGVzY3Jp\ncHRpb24iOiAiTWluaW1hbCBhbmQgY2FsbSBVSSBmb3IgYSBtb2JpbGUgaGFi\naXQgdHJhY2tlciBhcHAuIEZvY3VzZWQgb24gcG9zaXRpdmUgZmVlZGJhY2sg\nbG9vcHMgYW5kIGRvcGFtaW5lLXNhZmUgVVguIiwKICAgICAgICAgICJpbWFn\nZSI6ICJwbGFjZWhvbGRlci5wbmciLAogICAgICAgICAgInR5cGUiOiAiYXBw\nLWRlc2lnbiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJ0aXRs\nZSI6ICJQb3N0ZXIgU2VyaWVzIGZvciBNdXNpYyBGZXN0aXZhbCIsCiAgICAg\nICAgICAiZGVzY3JpcHRpb24iOiAiQSBsb3VkLCBnbGl0Y2h5IHBvc3RlciBh\nbmQgc29jaWFsIG1lZGlhIHNldCBmb3IgYW4gaW5kaWUgZWxlY3Ryb25pYyBt\ndXNpYyBldmVudC4gUHJpbnRlZCBhbmQgZGlnaXRhbCBhc3NldHMgZGVsaXZl\ncmVkLiIsCiAgICAgICAgICAiaW1hZ2UiOiAicGxhY2Vob2xkZXIucG5nIiwK\nICAgICAgICAgICJ0eXBlIjogInByaW50IgogICAgICAgIH0sCiAgICAgICAg\newogICAgICAgICAgInRpdGxlIjogIlBvcnRmb2xpbyBSZWRlc2lnbiBmb3Ig\nUGhvdG9ncmFwaGVyIiwKICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICJMYWlk\nLWJhY2ssIGdhbGxlcnktc3R5bGUgd2Vic2l0ZSBtb2NrdXBzIHdpdGggZm9j\ndXMgb24gbmVnYXRpdmUgc3BhY2UgYW5kIGZyYW1pbmcuIERlbGl2ZXJlZCBy\nZXNwb25zaXZlIGRlc2lnbiBzeXN0ZW0gKyBkZXNpZ24tdG8tZGV2IGhhbmRv\nZmYuIiwKICAgICAgICAgICJpbWFnZSI6ICJwbGFjZWhvbGRlci5wbmciLAog\nICAgICAgICAgInR5cGUiOiAid2ViLWRlc2lnbiIKICAgICAgICB9CiAgICAg\nIF0KICAgIH0sCiAgICAiY29udGFjdCI6IHsKICAgICAgInRpdGxlIjogIkNv\nbnRhY3QgTWUiLAogICAgICAiaW50cm8iOiAiTGV04oCZcyBidWlsZCBzb21l\ndGhpbmcgdG9nZXRoZXIuIFdoZXRoZXIgeW91IG5lZWQgYSB3ZWJzaXRlLCBh\nIGJyYW5kIHJlZnJlc2gsIG9yIGEgZGVzaWduIHNwYXJyaW5nIHBhcnRuZXIg\n4oCUIEnigJlkIGxvdmUgdG8gaGVhciB5b3VyIHN0b3J5LiIsCiAgICAgICJl\nbWFpbCI6ICJsdXVrYmFyaW5rQGdtYWlsLmNvbSIsCiAgICAgICJzb2NpYWwi\nOiB7CiAgICAgICAgImxpbmtlZGluIjogImh0dHBzOi8vbGlua2VkaW4uY29t\nL2luL3lvdXJwcm9maWxlIiwKICAgICAgICAiaW5zdGFncmFtIjogImh0dHBz\nOi8vaW5zdGFncmFtLmNvbS95b3VyaGFuZGxlIgogICAgICB9CiAgICB9CiAg\nfQp9\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Luuno/portfolio/contents/content/content.json?ref=main",
+    "git": "https://api.github.com/repos/Luuno/portfolio/git/blobs/131ef7acb73e669be214d13de32916a29254e9fa",
+    "html": "https://github.com/Luuno/portfolio/blob/main/content/content.json"
   }
 }
