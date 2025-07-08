@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>PopLuca</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <link rel="stylesheet" href="/css/styles.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <!-- INTRO SECTION -->
+    <div class="wrapper center center-center">
+        <img class="logo-corner" src="src/Logo_standard_dark.png">
+        <a href="/admin/index.html">
+  <img class="admin-corner" src="src/admin.png" >
+        </a>
+      
+        <div class="nav debug">
+            <button id="websites" class="nav-button" onClick="PageNav('websites')">Websites</button>
+            <button id="design" class="nav-button"onClick="PageNav('design')">Design</button>
+            <button id="contact"class="nav-button" onClick="PageNav('contact')">Contact</button>
+        </div>
+        <div id="intro" class="block block-col block-center w-90 h-90 intro debug center center-center">
+            <img class="logo-main w-25" src="src/Logo_standard_dark.png">
+            <div class="block block-center block-row w-50 tagline">
+                <span class="word">Design.</span>
+                <span class="word">Motion.</span>
+                <span class="word">Code.</span>
+                <span class="word">All in one.</span>
+            </div>
+        </div>
+        <!-- Website SECTION -->
+        <div id="website-page" class="section block block-col block-sa w-75 h-90 debug latest ">
+            <div class="header w-100 ">
+                <p id="websites-title" class="tagline">LATEST NEWS</p>
+                <p id="websites-intro" class="">LATEST NEWS</p>
+            </div>
+            <div id="website-card-container" class="card-container w-90">
+               
+            </div>
+            <p class="tagline">more to come...</p>
+        </div>
+        <!-- Design SECTION -->
+        <div id="design-page" class="section block block-col block-sa w-75 h-90 debug latest ">
+            <div class="header w-100 ">
+                <p id="design-title" class="tagline"></p>
+                <p id="design-intro" class="description"></p>
+            </div>
+            <div id="design-card-container" class="card-container w-90">
+               
+            </div>
+            <p class="tagline">more to come...</p>
+        </div>
+        
+        <!-- CONTACT SECTION -->
+        <div id="contact-page" class="section block block-col block-sa w-75 h-90 debug ">
+            <div id="contact-intro" class="header w-100 ">
+                <p>THis is me</p>
+            </div>
+            <div id="contact-header" class="header w-100 ">
+                <p id="contact-title" class="tagline">CONTACT</p>
+                <p id="contact-intro"></p>
+                <p id="contact-mail"></p>
+            </div>
+
+        </div>
+    </div>
+
+
+    </div>
+ <script src="/js/main.js"></script>
+</body>
+
+</html>
