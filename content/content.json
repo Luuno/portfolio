@@ -5,7 +5,7 @@
       "intro": "I craft ultra-focused micro websites that load fast, look sharp, and clearly communicate your message. Whether you’re launching a product, promoting a service, or building a personal brand — I’ll build you a site that works like a digital handshake: professional, memorable, and uniquely yours.",
       "projects": [
         {
-          "title": "Nature Retreat Landing Page",
+          "title": "ture Retreat Landing Page",
           "description": "A calm, earthy one-pager promoting a wellness retreat in Sweden. Responsive, minimal, and immersive.",
           "image": "placeholder.png",
           "link": "#"
@@ -32,34 +32,33 @@
     },
     "design": {
       "title": "Design",
-      "intro": "Simplicity meets character. I design with clarity and intent — no clutter, no fluff. Whether it’s a brand identity or a layout, I combine clean structure with playful energy to create designs that feel human and alive. Each piece is custom-built, not templated."
-    ,"projects":[
-  {
-    "title": "Brand Identity for Wander Studio",
-    "description": "A clean, earthy logo and design system for a nature-focused creative agency. Included icon set, typography pairing, and brand guidelines.",
-    "image": "placeholder.png",
-    "type": "branding"
-  },
-  {
-    "title": "App UI for Habit Tracker",
-    "description": "Minimal and calm UI for a mobile habit tracker app. Focused on positive feedback loops and dopamine-safe UX.",
-    "image": "placeholder.png",
-    "type": "app-design"
-  },
-  {
-    "title": "Poster Series for Music Festival",
-    "description": "A loud, glitchy poster and social media set for an indie electronic music event. Printed and digital assets delivered.",
-    "image": "placeholder.png",
-    "type": "print"
-  },
-  {
-    "title": "Portfolio Redesign for Photographer",
-    "description": "Laid-back, gallery-style website mockups with focus on negative space and framing. Delivered responsive design system + design-to-dev handoff.",
-    "image": "placeholder.png",
-    "type": "web-design"
-  }
-]
-    
+      "intro": "Simplicity meets character. I design with clarity and intent — no clutter, no fluff. Whether it’s a brand identity or a layout, I combine clean structure with playful energy to create designs that feel human and alive. Each piece is custom-built, not templated.",
+      "projects": [
+        {
+          "title": "Brand Identity for Wander Studio",
+          "description": "A clean, earthy logo and design system for a nature-focused creative agency. Included icon set, typography pairing, and brand guidelines.",
+          "image": "placeholder.png",
+          "type": "branding"
+        },
+        {
+          "title": "App UI for Habit Tracker",
+          "description": "Minimal and calm UI for a mobile habit tracker app. Focused on positive feedback loops and dopamine-safe UX.",
+          "image": "placeholder.png",
+          "type": "app-design"
+        },
+        {
+          "title": "Poster Series for Music Festival",
+          "description": "A loud, glitchy poster and social media set for an indie electronic music event. Printed and digital assets delivered.",
+          "image": "placeholder.png",
+          "type": "print"
+        },
+        {
+          "title": "Portfolio Redesign for Photographer",
+          "description": "Laid-back, gallery-style website mockups with focus on negative space and framing. Delivered responsive design system + design-to-dev handoff.",
+          "image": "placeholder.png",
+          "type": "web-design"
+        }
+      ]
     },
     "contact": {
       "title": "Contact Me",
